@@ -5,3 +5,8 @@
 > Например:  
 > 2+2*5  
 > 12  
+##### Решение
+```Python
+formula = input()
+print(int(eval(formula)))
+```
